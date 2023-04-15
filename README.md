@@ -11,4 +11,4 @@
 
 # 🤔 What is the purpose of this project?
 
-The focus of this activity is to practice Html and Css programming for the Web.
+The focus of this activity is to practice Html and Css for the Web.
